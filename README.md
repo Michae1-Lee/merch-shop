@@ -1,4 +1,4 @@
 Запуск сервиса  
-make run - билд и запуск  
+make run
 Запуск тестов  
-make test - билд и запуск  
+make test
