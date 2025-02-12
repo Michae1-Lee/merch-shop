@@ -1,4 +1,4 @@
 Запуск сервиса  
-make run
+make run  
 Запуск тестов  
 make test
